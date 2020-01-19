@@ -1,3 +1,2 @@
 # es6_slider
-es6 javascript slider
-simple javascript slider using classes
+Simple javascript slider using classes
